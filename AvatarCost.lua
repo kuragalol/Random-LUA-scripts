@@ -1,3 +1,4 @@
+--kuraga#1111 is me.
 local function avatarcost(plr)
     local target = plr
     local name = target.DisplayName
